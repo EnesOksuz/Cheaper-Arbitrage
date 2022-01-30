@@ -30,7 +30,7 @@ def find_cheap_chains(coin_name):
                 bsc_coins.append(coin_name[x])
                 print("done4")
             
-
+#enes
 
     print(solana_coins)
     print(avax_coins)
